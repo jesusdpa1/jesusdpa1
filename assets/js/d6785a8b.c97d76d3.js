@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjesusdpa_1=self.webpackChunkjesusdpa_1||[]).push([[9164],{5302:s=>{s.exports=JSON.parse('{"label":"facebook","permalink":"/jesusdpa1/blog/tags/facebook","allTagsPath":"/jesusdpa1/blog/tags","count":1}')}}]);
